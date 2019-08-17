@@ -1,0 +1,58 @@
+body{
+	background: #FFF1C1;
+	
+}
+h1{
+	font-family: 'Yellowtail', cursive;
+	font-size: 40px;
+	color: #A64942;
+	border: 4px rgba(200, 200, 200, 0.7);
+	border-style: dotted;
+	border-radius: 20px;
+
+}
+h2{
+	font-family:'Tangerine', cursive;
+	font-size: 40px;
+	color: #A64942;
+	
+}
+h3{
+	font-family:'Gentium Book Basic', serif;
+	font-size: 20px;
+	color: #FE5F55;
+}
+
+p{
+	color: #ff4893;
+}
+a{
+	color: #49beb7
+}
+a:hover {
+	text-decoration: purple;
+	color: #ff4893;
+}
+
+.card{
+	text-align: center;
+	box-shadow: 2px 2px 2px rgba(40, 40, 40, 0.5);
+/*	padding: 300px;*/
+	margin: 30px;
+	height: 300px;
+	width: 300px;
+
+}
+#banner{
+	text-align: center;
+}
+#footer{
+	text-align: center;
+	a:hover {
+	color: #ff4893;
+	}
+}
+.fab{
+	text-align: center;
+	color: #A64942;	
+}
